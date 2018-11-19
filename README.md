@@ -14,4 +14,3 @@ confirn confirlct
 
 #master javaee
 
-info
