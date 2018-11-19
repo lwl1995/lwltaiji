@@ -17,10 +17,4 @@ javaee
 confirn confirlct
 javaee
 
-bpptstrap
-master22
-
-dev2 master
-
-kkk
 
